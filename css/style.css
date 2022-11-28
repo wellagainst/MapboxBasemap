@@ -1,6 +1,11 @@
 body{
     font-family: 'Goudy Bookletter 1911', serif;
+    
+}
+h1{
+    color:beige;
 }
 p{
-    font-size:20px;
+    font-size:30px;
+    color:beige;
 }
